@@ -7,7 +7,7 @@ I'm trying out markdown to see how it will look in README.md
 
 ### Code Example
 
-```
+```{python}
 y = x + 1
 for x > 0 and x < 3:
   print y
